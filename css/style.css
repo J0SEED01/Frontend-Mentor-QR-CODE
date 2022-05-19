@@ -50,6 +50,7 @@ body{
 .card__info__title{
     color: hsl(218, 44%, 22%);
     font-weight: 700;
+    font-size: 1.27em;
 }
 
 .card__info__paragraph{
